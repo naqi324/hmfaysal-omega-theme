@@ -1,9 +1,9 @@
-title:            HMFAYSAL
-description:      "Omega: The Coolest Theme for Jekyll"
-logo:             omikron.png
-disqus_shortname: hmfaysal
+title:            ramble reflect repeat
+description:      "welcome to my internal monologue"
+logo:             
+disqus_shortname: naqi324
 # Assign a default image for your site's header and footer
-default_bg:       default_bg.jpg
+default_bg:       sea.jpg
 search:           true
 share:            true
 # Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
@@ -13,31 +13,24 @@ animated_fins:	  true
 # Specify the fin color in RGB value
 fin_color:        "255,255,255"
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:              http://hmfaysal.github.io/hmfaysal-omega-theme
+url:              
 
 # Owner/author information
 owner:
-  name:           Hossain Mohd Faysal
-  avatar:         hmfaysal.jpg
-  email:          hmfaysal@alum.mit.edu
+  name:           Naqi Khan
+  avatar:         naqi.jpg
+  email:          mail@naqi.co
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    Hossain Mohammad Faysal is an Electrical Engineer and a Mathematician based in Doha, Qatar. His interests are anything that&#8217;s related to math, from math itself to programming languages to music to physics to engineering to philosophy.
+  description:    Naqi Khan is a Physician Informatics Leader based in San Diego. He uses data science together with information technology to try and improve healthcare.
   # Social networking links used in footer. Update and remove as you like.
   # To register at HMFAYSAL SOCIAL, visit http://social.hmfaysal.tk
-  twitter:        hmfaysal
-  facebook:       hmfaysal
-  github:         hmfaysal
-  stackexchange:  https://stackexchange.com/users/3402032/hossain-mohd-faysal
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
-  hmfaysalsocial: hmfaysal
+  twitter:        drnaqi
+  linkedin:       https://www.linkedin.com/in/naqiakhan
   # For Google Authorship https://plus.google.com/authorship
-  google_plus:    https://plus.google.com/u/0/102602916593522619858
+  google_plus:    https://plus.google.com/u/0/106262759700549991915
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   UA-39365944-7
+google_analytics:   UA-37240519-1
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
@@ -55,11 +48,11 @@ links:
     url: /categories
   - title: Tags
     url: /tags
-  - title: Faysal who?
-    url: /hossain-mohd-faysal
+  - title: naqi.co
+    url: http://naqi.co
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Los_Angeles
 future:      true
 pygments:    true
 markdown:    kramdown
